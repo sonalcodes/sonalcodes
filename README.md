@@ -1,4 +1,10 @@
-Hola, Waving hand animated gif  I'm Sonal Grover
+Hello, I'm Sonal Grover
+
+😄 Pronouns: He/His
+🔭 I’m currently working on Flutter.
+🌱 I have 7 years of experience in Mobile App Development.
+💬 Ask me about Flutter or any tech-related stuff.
+📫 How to reach me: Check social links below.
 
 <!--
 **sonalcodes/sonalcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
